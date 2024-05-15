@@ -20,9 +20,9 @@ root.render(
     <ThemeProvider theme={theme}>
       <MakeStylesProvider theme={theme}>
         <CssBaseline />
-        <Router basename="/minter">
+        <Router basename="/minter_testnet">
           <SnackbarProvider maxSnack={3}>
-            <TonConnectUIProvider manifestUrl="https://panypham.github.io/minter/tonconnect-manifest.json">
+            <TonConnectUIProvider manifestUrl="https://panypham.github.io/minter_testnet/tonconnect-manifest.json">
               <App />
             </TonConnectUIProvider>
           </SnackbarProvider>

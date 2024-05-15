@@ -22,7 +22,7 @@ root.render(
         <CssBaseline />
         <Router>
           <SnackbarProvider maxSnack={3}>
-            <TonConnectUIProvider manifestUrl="https://panypham.github.io/minter/">
+            <TonConnectUIProvider manifestUrl="https://panypham.github.io/minter/tonconnect-manifest.json">
               <App />
             </TonConnectUIProvider>
           </SnackbarProvider>

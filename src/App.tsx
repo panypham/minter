@@ -85,6 +85,8 @@ const App = () => {
     resetJetton();
   }, [location.pathname]);
 
+  console.log("App");
+
   return (
     <AppWrapper>
       <EnvContext.Provider

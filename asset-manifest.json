@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/minter_testnet/static/css/main.fc5705ca.css",
-    "main.js": "/minter_testnet/static/js/main.de1ac1cc.js",
+    "main.js": "/minter_testnet/static/js/main.1761b041.js",
     "static/js/453.e5407da2.chunk.js": "/minter_testnet/static/js/453.e5407da2.chunk.js",
     "static/media/orbs.svg": "/minter_testnet/static/media/orbs.0f1186d9548085158bfc9ddc129dd972.svg",
     "static/media/coin-logo.svg": "/minter_testnet/static/media/coin-logo.be193ced0ab3174318408cbda298ed18.svg",
@@ -24,11 +24,11 @@
     "static/media/close.svg": "/minter_testnet/static/media/close.fd4f52334074b7c94a6d151d92ae564c.svg",
     "static/media/bullet.svg": "/minter_testnet/static/media/bullet.8706cb790748d19ca6cd8c56297ea15e.svg",
     "main.fc5705ca.css.map": "/minter_testnet/static/css/main.fc5705ca.css.map",
-    "main.de1ac1cc.js.map": "/minter_testnet/static/js/main.de1ac1cc.js.map",
+    "main.1761b041.js.map": "/minter_testnet/static/js/main.1761b041.js.map",
     "453.e5407da2.chunk.js.map": "/minter_testnet/static/js/453.e5407da2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5705ca.css",
-    "static/js/main.de1ac1cc.js"
+    "static/js/main.1761b041.js"
   ]
 }
